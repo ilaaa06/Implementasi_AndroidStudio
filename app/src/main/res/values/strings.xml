@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="design_home">design home</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="slogan">When the Coffee and Elegance Meet</string>
+    <string name="special">Get Special Offer</string>
+    <string name="up_to">Up to</string>
+    <string name="price_creamy">25K</string>
+    <string name="price_cappucino">25K</string>
+    <string name="price_croissant">15K</string>
+    <string name="pickup">Pickup</string>
+    <string name="icon_home">icon home</string>
+    <string name="icon_menu">icon menu</string>
+    <string name="icon_profile">icon profile</string>
+    <string name="menu">MENU</string>
+    <string name="cappucino">Cappucino</string>
+    <string name="creamy">Creamy Latte</string>
+    <string name="croissant">Butter Croissant</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="name">name</string>
+    <string name="handphone">handphone/WA</string>
+    <string name="detail_cappucino">Hot Cappucino</string>
+    <string name="detail_price1">Rp. 25.000.00</string>
+    <string name="detail_categories1">Hot Coffee</string>
+    <string name="detail">Detail</string>
+    <string name="desc_cappucino">Hot cappucino adalah minuman kopi berbasis eskpresso yang dicampur dengan susu panas dan lapisan busa susu di atasnya.</string>
+    <string name="detail_buy">Buy</string>
+    <string name="splash_screen">Started</string>
+    <string name="started">Started</string>
+</resources>
