@@ -8,9 +8,9 @@ Aplikasi *Papillon Coffee* menghadirkan pengalaman elegan dan hangat bagi pecint
 •	Deskripsi: Halaman utama aplikasi, memperkenalkan kategori produk dan opsi layanan.  
 •	Elemen UI:   
 o	Bagian Atas: Teks "When the Coffee and Elegance Meet" dan kategori pilihan utama: "Best Seller".   
-o	Bagian Bawah: Tombol "Pickup" dan "Delivery".   
+o	Bagian Bawah: Tombol "Pickup", icon "Menu", dan icon "Profile".      
 •	Tujuan: Memudahkan pengguna untuk menavigasi ke kategori utama dan memilih opsi pengiriman.   
-•	Interaksi: Pengguna bisa memilih produk populer atau spesial, serta memilih metode pengiriman (Pickup atau Delivery).     
+•	Interaksi: Pengguna bisa memilih produk populer atau spesial, serta mengecek proses pembuatan produknya.     
 ## 2.	Menu Page  
 •	Deskripsi: Halaman menu lengkap yang menampilkan berbagai minuman dan makanan.  
 •	Elemen UI:  
@@ -28,7 +28,7 @@ o	Harga produk dan tombol "Buy".
 ## 4. Profile Page
 •	Deskripsi: Halaman profil pengguna yang menampilkan informasi akun dan pengaturan.   
 •	Elemen UI:   
-o	Profil pengguna dengan foto/avatar.  
+o	Profil pengguna dengan logo aplikasi.  
 o	Deskripsi pengguna seperti nama, nomor telepon/WhatsApp.   
 •	Tujuan: Memberi akses ke deskripsi akun pengguna.   
 •	Interaksi: Pengguna dapat mengisi kolom-kolom tersebut supaya dapat mempermudah komunikasi, jika produk siap pengguna akan mendapat notifikasi atau informasi melalui whatsapp.  	       
@@ -36,9 +36,9 @@ o	Deskripsi pengguna seperti nama, nomor telepon/WhatsApp.
 •	Deskripsi: Halaman untuk proses akhir pembelian dengan rincian pesanan.   
 •	Elemen UI:   
 o	Rincian pesanan dengan harga total di bagian bawah.   
-o	Tombol "Proceed to Payment" untuk menyelesaikan transaksi.   
+o	Tombol Payment" untuk menyelesaikan transaksi.   
 •	Tujuan: Mengonfirmasi pesanan sebelum pembayaran.   
-•	Interaksi: Pengguna menekan "Pay" untuk melanjutkan pembayaran. 
+•	Interaksi: Pengguna menekan "Pay" untuk menunggu pembuatan produk, dan metode pembayaran hanya menggunakan tunai/cash. 
 ## 6.	Order  
 •	Deskripsi: Halaman untuk proses pembuatan produk   
 •	Elemen UI:  
@@ -47,6 +47,6 @@ o	Deskripsi “Great news! Your Order is in the works. We’ll let you know when
 •	Tujuan: custumer/pengguna akan mengetahui pesanan akan disiapkan dan notifikasi pengambilan produk (hanya bisa melalui pickup dan cash.  
 o	Interaksi: Pengguna dapat menunggu proses pesanan.   
 ### Catatan
-Untuk pengerjaan/progress project untuk ujian tengah semester (UTS) sampai 4 halaman, yaitu halaman home page, menu page, detail product page, dan profile page. Kelengkapan halaman akan dikumpulkan pada ujian akhir semester (UAS).
+Untuk pengerjaan/progress project untuk ujian tengah semester (UTS) sampai 4 halaman, yaitu halaman home page, menu page, detail product page, dan profile page. Kelengkapan halaman akan dilanjutkan dan diselesaikan setelah UTS lalu dikumpulkan pada ujian akhir semester (UAS).
 
 
