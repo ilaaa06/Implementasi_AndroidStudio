@@ -2,7 +2,7 @@
 #### Nama: Nur Laila
 #### Nim: 312310149
 
-![canvas_storyboard-241106_0744](https://github.com/user-attachments/assets/2c7a3cee-b212-4669-9d4f-df683e3315ca)    
+![UI png](https://github.com/user-attachments/assets/0d812a09-4af0-4626-906f-0fc783f69f1f)    
 Aplikasi *Papillon Coffee* menghadirkan pengalaman elegan dan hangat bagi pecinta kopi, dengan nuansa warna maroon dan emas yang memberikan kesan mewah dan nyaman. Slogannya, "When the Coffee and Elegance Meet," mencerminkan perpaduan sempurna antara cita rasa kopi terbaik dan suasana yang sophisticated, cocok untuk menikmati waktu santai maupun produktif.   
 ## 1.	Home Page
 •	Deskripsi: Halaman utama aplikasi, memperkenalkan kategori produk dan opsi layanan.  
